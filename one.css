@@ -9,7 +9,7 @@ html{
     font-family: serif;
 }
 body{
-    font-family: Baskerville, Didot, serif;
+    font-family: 'Old Standard TT', Georgia, Times, serif;
 }
 html,body{
     background-color: #d4d4d4;
@@ -58,7 +58,7 @@ main p:last-child{
 header{
     width:100%;
     border-bottom: 1rem solid black;
-    font-family: 'Cabin', Futura, sans-serif;
+    font-family: 'Cabin', Futura, Tahoma, sans-serif;
 }
 nav{
     float:left;
